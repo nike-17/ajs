@@ -3,6 +3,7 @@
   "description": "ajs",
   "version": "0.0.1",
   "dependencies": {
+    "annotation": "^0.1.0",
     "grunt": "*",
     "grunt-string-replace": "*"
   }
